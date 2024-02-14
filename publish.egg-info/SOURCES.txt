@@ -1,0 +1,7 @@
+pyproject.toml
+publish/__init__.py
+publish/foo.py
+publish.egg-info/PKG-INFO
+publish.egg-info/SOURCES.txt
+publish.egg-info/dependency_links.txt
+publish.egg-info/top_level.txt
